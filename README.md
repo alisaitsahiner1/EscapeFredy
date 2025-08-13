@@ -2,6 +2,15 @@
 
 **Escape Fredy**, bir kale ortamında geçen aksiyon dolu bir kaçış oyunudur. Oyuncunun amacı, çeşitli engelleri ve muhafızları aşarak kaleden kaçmaktır. Anahtarlar, upgradelar ve zekice tasarlanmış savaş sistemi ile oyuncuya strateji dolu bir deneyim sunar.
 
+---
+
+## 🎬 Tanıtım Videosu
+
+📺 YouTube'dan oyunun tanıtım videosunu izlemek için tıklayın:  
+➡️ [Escape Fredy Gameplay](https://www.youtube.com/shorts/VR6-I6f6QgA)
+
+---
+
 ## 🎮 Oynanış
 
 Oyunda kaleden kaçmak için çeşitli görevleri tamamlamanız gerekiyor:
@@ -14,15 +23,21 @@ Oyunda kaleden kaçmak için çeşitli görevleri tamamlamanız gerekiyor:
 - 📦 **Inventory Sistemi**: Topladığınız anahtarlar ve önemli eşyalar bir envanter sisteminde saklanır. Böylece kapıları açmak için gerekli anahtarları kolayca yönetebilirsiniz.
 - 🚪 **Hinge Door Sistemi**: Kapılar fiziksel olarak açılır/kapanır. Unity'de Hinge Joint kullanılarak dinamik bir kapı mekanizması tasarlanmıştır.
 
+---
+
 ## 👁️‍🗨️ Muhafız AI
 
 - Muhafızlar belirli bir yörünge üzerinde gidip gelir.
 - Oyuncu algılandığında tepki verirler ve savaş başlar.
 - Basit bir devriye ve saldırı sistemi içerir.
 
+---
+
 ## 🧱 Kullanılan Assetler
 
 Bu projede kullanılan tüm assetler **Funrado** adlı oyun şirketinden alınmıştır. Oyunun görsel ve içeriksel yapısı, Funrado'nun geliştirdiği benzer bir oyundan ilham alınarak oluşturulmuştur.
+
+---
 
 ## 🛠️ Kullanılan Teknolojiler
 
@@ -33,8 +48,3 @@ Bu projede kullanılan tüm assetler **Funrado** adlı oyun şirketinden alınm�
 - Custom Inventory System
 - Basic AI (Patrol & Attack)
 
-## 🚀 Başlatmak İçin
-
-1. Bu projeyi klonlayın:
-   ```bash
-   git clone https://github.com/kullaniciadi/EscapeFredy.git

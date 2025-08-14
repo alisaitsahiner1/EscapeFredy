@@ -1,47 +1,47 @@
 # 🏰 Escape Fredy
 
-**Escape Fredy**, bir kale ortamında geçen aksiyon dolu bir kaçış oyunudur. Oyuncunun amacı, çeşitli engelleri ve muhafızları aşarak kaleden kaçmaktır. Anahtarlar, upgradelar ve zekice tasarlanmış savaş sistemi ile oyuncuya strateji dolu bir deneyim sunar.
+**Escape Fredy** is an action-packed escape game set in a castle environment. The player's goal is to overcome various obstacles and guards to escape from the castle. With keys, upgrades, and a cleverly designed combat system, the game offers a strategy-driven experience.
 
 ---
 
-## 🎬 Tanıtım Videosu
+## 🎬 Trailer
 
-📺 YouTube'dan oyunun tanıtım videosunu izlemek için tıklayın:  
+📺 Watch the gameplay trailer on YouTube:  
 ➡️ [Escape Fredy Gameplay](https://www.youtube.com/shorts/VR6-I6f6QgA)
 
 ---
 
-## 🎮 Oynanış
+## 🎮 Gameplay
 
-Oyunda kaleden kaçmak için çeşitli görevleri tamamlamanız gerekiyor:
+To escape from the castle, the player must complete various objectives:
 
-- 🔑 **Kapılar ve Anahtarlar**: Her kapı belirli bir renkte anahtarla açılır. Doğru renkteki anahtarı toplayarak kapıları açabilirsiniz.
-- 🛡️ **Muhafızlar**: Kale çevresinde devriye gezen muhafızlar vardır. Onlarla doğrudan savaşmak tehlikelidir. 
-  - **Upgrade toplamadan** savaşırsanız, muhtemelen sizi alt ederler.
-  - **Upgrade’leri toplayarak** güçlenmeli ve ardından savaşmalısınız.
-- ⚔️ **Upgrade Sistemi**: Oyuna yerleştirilmiş çeşitli upgrade noktaları sayesinde karakterinizi geliştirerek daha güçlü hale gelebilirsiniz.
-- 📦 **Inventory Sistemi**: Topladığınız anahtarlar ve önemli eşyalar bir envanter sisteminde saklanır. Böylece kapıları açmak için gerekli anahtarları kolayca yönetebilirsiniz.
-- 🚪 **Hinge Door Sistemi**: Kapılar fiziksel olarak açılır/kapanır. Unity'de Hinge Joint kullanılarak dinamik bir kapı mekanizması tasarlanmıştır.
-
----
-
-## 👁️‍🗨️ Muhafız AI
-
-- Muhafızlar belirli bir yörünge üzerinde gidip gelir.
-- Oyuncu algılandığında tepki verirler ve savaş başlar.
-- Basit bir devriye ve saldırı sistemi içerir.
+- 🔑 **Doors and Keys**: Each door can only be opened with a key of a specific color. Collect the correct colored key to unlock doors.
+- 🛡️ **Guards**: Guards patrol the castle grounds. Engaging them without proper upgrades is dangerous.
+  - If you **fight without collecting upgrades**, they will likely overpower you.
+  - You should **collect upgrades** to become stronger before engaging in combat.
+- ⚔️ **Upgrade System**: The player can power up by collecting upgrades placed throughout the game environment.
+- 📦 **Inventory System**: Collected keys and essential items are stored in a custom inventory system, allowing easy access when unlocking doors.
+- 🚪 **Hinge Door System**: Doors open and close physically. A dynamic door mechanism is implemented using Unity’s Hinge Joint system.
 
 ---
 
-## 🧱 Kullanılan Assetler
+## 👁️‍🗨️ Guard AI
 
-Bu projede kullanılan tüm assetler **Funrado** adlı oyun şirketinden alınmıştır. Oyunun görsel ve içeriksel yapısı, Funrado'nun geliştirdiği benzer bir oyundan ilham alınarak oluşturulmuştur.
+- Guards move along predefined patrol paths.
+- When the player is detected, they respond and initiate combat.
+- Includes a basic patrol and attack system.
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+## 🧱 Assets Used
 
-- Unity 2021+ (veya üzeri önerilir)
+All game assets used in this project are provided by **Funrado**, a game development company. The visual and gameplay design is inspired by a similar game developed by Funrado.
+
+---
+
+## 🛠️ Technologies Used
+
+- Unity 2021+ (or newer is recommended)
 - C#
 - Unity Input System
 - Unity Physics (Hinge Joint)

@@ -1,6 +1,6 @@
 # 🏰 Escape Fredy
 
-**Escape Fredy** is an action-packed escape game set in a castle environment. The player's goal is to overcome various obstacles and guards to escape from the castle. With keys, upgrades, and a cleverly designed combat system, the game offers a strategy-driven experience.
+**Escape Fredy** is an action-packed escape game set in a castle environment. The player's goal is to overcome various obstacles and guards to escape from the castle. With keys, upgrades, and a cleverly designed combat system, the game offers a strategy-driven experience!
 
 ---
 
